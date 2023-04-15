@@ -1,4 +1,4 @@
-Linear Regression Analysis on Housing Prices
+#Linear Regression Analysis on Housing Prices
 This project involves analyzing housing prices based on the area of the property. The data used for the analysis is stored in a CSV file named book1.csv.
 
 Tools Used
